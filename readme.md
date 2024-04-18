@@ -4,6 +4,9 @@ Source Code: https://github.com/tiangolo/fastapi
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.8+ based on standard Python type hints.
 
+![fastapi](https://github.com/ArkS0001/Fast-API/assets/113760964/ad704768-d413-4c3a-a031-99c094ffa092)
+
+
 The key features are:
 
     Fast: Very high performance, on par with NodeJS and Go (thanks to Starlette and Pydantic). One of the fastest Python frameworks available.
